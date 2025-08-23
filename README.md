@@ -87,7 +87,7 @@ El curso se divide en dos módulos (40 horas cada uno), con un total de 80 horas
 
 ## 📬 Contacto
 **Docente:** Gabriel Eduardo Rengifo Ríos  
-- 📧 Email: *(agregar correo si lo deseas)*  
-- 💼 LinkedIn: *(opcional)*  
+- 📧 Email: *(gabo.dev@outlook.com)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/gabriel-eduardo-rengifo-rios-685b3384)*  
 
 ---
