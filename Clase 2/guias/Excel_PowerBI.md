@@ -1,4 +1,4 @@
-# Guía paso a paso – Clase 1.3
+# Guía Excel & Power BI
 **Fundamentos de la Inteligencia de Negocios (BI) con Power BI + Excel Intermedio**  
 **Duración sugerida:** 5 horas
 
