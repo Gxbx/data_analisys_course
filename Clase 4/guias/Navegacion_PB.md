@@ -73,7 +73,7 @@ Ventas Totales = SUM(Ventas[Monto])
 Para esta sesión se recomienda usar el dataset público:  
 
 ** "Superstore Sales Dataset" (Kaggle)**  
-🔗 [Descargar en Kaggle](https://www.kaggle.com/datasets/abhisheksinghblr/superstore-dataset)  
+🔗 [Descargar en Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)  
 
 ### Contenido del dataset:  
 - **Pedidos**: ID de pedido, fecha, cliente, categoría de producto.  
