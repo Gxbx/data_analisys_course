@@ -1,0 +1,21 @@
+ClienteID,Nombre,Ciudad,Segmento
+1,Cliente 1,Medellín,Corporativo
+2,Cliente 2,Cali,Consumidor
+3,Cliente 3,Popayán,Corporativo
+4,Cliente 4,Medellín,Corporativo
+5,Cliente 5,Popayán,Corporativo
+6,Cliente 6,Bogotá,Pequeña Empresa
+7,Cliente 7,Barranquilla,Consumidor
+8,Cliente 8,Medellín,Consumidor
+9,Cliente 9,Bogotá,Pequeña Empresa
+10,Cliente 10,Popayán,Consumidor
+11,Cliente 11,Cali,Consumidor
+12,Cliente 12,Bogotá,Pequeña Empresa
+13,Cliente 13,Popayán,Pequeña Empresa
+14,Cliente 14,Bogotá,Pequeña Empresa
+15,Cliente 15,Medellín,Pequeña Empresa
+16,Cliente 16,Cali,Consumidor
+17,Cliente 17,Barranquilla,Corporativo
+18,Cliente 18,Cali,Corporativo
+19,Cliente 19,Medellín,Corporativo
+20,Cliente 20,Bogotá,Pequeña Empresa
