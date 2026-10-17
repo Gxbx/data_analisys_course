@@ -1,0 +1,80 @@
+﻿RaceKey,Round,RaceDate,Track,DriverKey,TeamKey,PositionRaw,PositionNumeric,ResultStatus,StartingGrid,Laps,TimeRetired,Points,SetFastestLap,FastestLapTime
+2024-R01,1,2024-03-02,Bahrain,Max Verstappen,Red Bull Racing Honda RBPT,1,1,Clasificado,1,57,1:31:44.742,26.0,Yes,1:32.608
+2024-R01,1,2024-03-02,Bahrain,Sergio Perez,Red Bull Racing Honda RBPT,2,2,Clasificado,5,57,+22.457,18.0,No,1:34.364
+2024-R01,1,2024-03-02,Bahrain,Carlos Sainz,Ferrari,3,3,Clasificado,4,57,+25.110,15.0,No,1:34.507
+2024-R01,1,2024-03-02,Bahrain,Charles Leclerc,Ferrari,4,4,Clasificado,2,57,+39.669,12.0,No,1:34.090
+2024-R01,1,2024-03-02,Bahrain,George Russell,Mercedes,5,5,Clasificado,3,57,+46.788,10.0,No,1:35.065
+2024-R01,1,2024-03-02,Bahrain,Lando Norris,McLaren Mercedes,6,6,Clasificado,7,57,+48.458,8.0,No,1:34.476
+2024-R01,1,2024-03-02,Bahrain,Lewis Hamilton,Mercedes,7,7,Clasificado,9,57,+50.324,6.0,No,1:34.722
+2024-R01,1,2024-03-02,Bahrain,Oscar Piastri,McLaren Mercedes,8,8,Clasificado,8,57,+56.082,4.0,No,1:34.983
+2024-R01,1,2024-03-02,Bahrain,Fernando Alonso,Aston Martin Aramco Mercedes,9,9,Clasificado,6,57,+74.887,2.0,No,1:34.199
+2024-R01,1,2024-03-02,Bahrain,Lance Stroll,Aston Martin Aramco Mercedes,10,10,Clasificado,12,57,+93.216,1.0,No,1:35.632
+2024-R01,1,2024-03-02,Bahrain,Guanyu Zhou,Kick Sauber Ferrari,11,11,Clasificado,17,56,+1 lap,0.0,No,1:35.458
+2024-R01,1,2024-03-02,Bahrain,Kevin Magnussen,Haas Ferrari,12,12,Clasificado,15,56,+1 lap,0.0,No,1:35.570
+2024-R01,1,2024-03-02,Bahrain,Daniel Ricciardo,RB Honda RBPT,13,13,Clasificado,14,56,+1 lap,0.0,No,1:35.163
+2024-R01,1,2024-03-02,Bahrain,Yuki Tsunoda,RB Honda RBPT,14,14,Clasificado,11,56,+1 lap,0.0,No,1:35.833
+2024-R01,1,2024-03-02,Bahrain,Alexander Albon,Williams Mercedes,15,15,Clasificado,13,56,+1 lap,0.0,No,1:35.723
+2024-R01,1,2024-03-02,Bahrain,Nico Hulkenberg,Haas Ferrari,16,16,Clasificado,10,56,+1 lap,0.0,No,1:34.834
+2024-R01,1,2024-03-02,Bahrain,Esteban Ocon,Alpine Renault,17,17,Clasificado,19,56,+1 lap,0.0,No,1:36.226
+2024-R01,1,2024-03-02,Bahrain,Pierre Gasly,Alpine Renault,18,18,Clasificado,20,56,+1 lap,0.0,No,1:34.805
+2024-R01,1,2024-03-02,Bahrain,Valtteri Bottas,Kick Sauber Ferrari,19,19,Clasificado,16,56,+1 lap,0.0,No,1:36.202
+2024-R01,1,2024-03-02,Bahrain,Logan Sargeant,Williams Mercedes,20,20,Clasificado,18,55,+2 laps,0.0,No,1:34.735
+2024-R02,2,2024-03-09,Saudi Arabia,Max Verstappen,Red Bull Racing Honda RBPT,1,1,Clasificado,1,50,1:20:43.273,25.0,No,1:31.773
+2024-R02,2,2024-03-09,Saudi Arabia,Sergio Perez,Red Bull Racing Honda RBPT,2,2,Clasificado,3,50,+13.643,18.0,No,1:32.273
+2024-R02,2,2024-03-09,Saudi Arabia,Charles Leclerc,Ferrari,3,3,Clasificado,2,50,+18.639,16.0,Yes,1:31.632
+2024-R02,2,2024-03-09,Saudi Arabia,Oscar Piastri,McLaren Mercedes,4,4,Clasificado,5,50,+32.007,12.0,No,1:32.310
+2024-R02,2,2024-03-09,Saudi Arabia,Fernando Alonso,Aston Martin Aramco Mercedes,5,5,Clasificado,4,50,+35.759,10.0,No,1:32.387
+2024-R02,2,2024-03-09,Saudi Arabia,George Russell,Mercedes,6,6,Clasificado,7,50,+39.936,8.0,No,1:32.254
+2024-R02,2,2024-03-09,Saudi Arabia,Oliver Bearman,Ferrari,7,7,Clasificado,11,50,+42.679,6.0,No,1:32.186
+2024-R02,2,2024-03-09,Saudi Arabia,Lando Norris,McLaren Mercedes,8,8,Clasificado,6,50,+45.708,4.0,No,1:31.944
+2024-R02,2,2024-03-09,Saudi Arabia,Lewis Hamilton,Mercedes,9,9,Clasificado,8,50,+47.391,2.0,No,1:31.746
+2024-R02,2,2024-03-09,Saudi Arabia,Nico Hulkenberg,Haas Ferrari,10,10,Clasificado,15,50,+76.996,1.0,No,1:32.366
+2024-R02,2,2024-03-09,Saudi Arabia,Alexander Albon,Williams Mercedes,11,11,Clasificado,12,50,+88.354,0.0,No,1:32.307
+2024-R02,2,2024-03-09,Saudi Arabia,Kevin Magnussen,Haas Ferrari,12,12,Clasificado,13,50,+105.737,0.0,No,1:32.338
+2024-R02,2,2024-03-09,Saudi Arabia,Esteban Ocon,Alpine Renault,13,13,Clasificado,17,49,+1 lap,0.0,No,1:33.481
+2024-R02,2,2024-03-09,Saudi Arabia,Logan Sargeant,Williams Mercedes,14,14,Clasificado,19,49,+1 lap,0.0,No,1:33.026
+2024-R02,2,2024-03-09,Saudi Arabia,Yuki Tsunoda,RB Honda RBPT,15,15,Clasificado,9,49,+1 lap,0.0,No,1:33.523
+2024-R02,2,2024-03-09,Saudi Arabia,Daniel Ricciardo,RB Honda RBPT,16,16,Clasificado,14,49,+1 lap,0.0,No,1:33.323
+2024-R02,2,2024-03-09,Saudi Arabia,Valtteri Bottas,Kick Sauber Ferrari,17,17,Clasificado,16,49,+1 lap,0.0,No,1:32.706
+2024-R02,2,2024-03-09,Saudi Arabia,Guanyu Zhou,Kick Sauber Ferrari,18,18,Clasificado,20,49,+1 lap,0.0,No,1:32.208
+2024-R02,2,2024-03-09,Saudi Arabia,Lance Stroll,Aston Martin Aramco Mercedes,NC,,No clasificado,10,5,DNF,0.0,No,1:35.560
+2024-R02,2,2024-03-09,Saudi Arabia,Pierre Gasly,Alpine Renault,NC,,No clasificado,18,1,DNF,0.0,No,
+2024-R03,3,2024-03-24,Australia,Carlos Sainz,Ferrari,1,1,Clasificado,2,58,1:20:26.843,25.0,No,1:20.031
+2024-R03,3,2024-03-24,Australia,Charles Leclerc,Ferrari,2,2,Clasificado,4,58,+2.366,19.0,Yes,1:19.813
+2024-R03,3,2024-03-24,Australia,Lando Norris,McLaren Mercedes,3,3,Clasificado,3,58,+5.904,15.0,No,1:19.915
+2024-R03,3,2024-03-24,Australia,Oscar Piastri,McLaren Mercedes,4,4,Clasificado,5,58,+35.770,12.0,No,1:20.199
+2024-R03,3,2024-03-24,Australia,Sergio Perez,Red Bull Racing Honda RBPT,5,5,Clasificado,6,58,+56.309,10.0,No,1:20.388
+2024-R03,3,2024-03-24,Australia,Lance Stroll,Aston Martin Aramco Mercedes,6,6,Clasificado,9,58,+93.222,8.0,No,1:20.930
+2024-R03,3,2024-03-24,Australia,Yuki Tsunoda,RB Honda RBPT,7,7,Clasificado,8,58,+95.601,6.0,No,1:21.134
+2024-R03,3,2024-03-24,Australia,Fernando Alonso,Aston Martin Aramco Mercedes,8,8,Clasificado,10,58,+100.992,4.0,No,1:20.493
+2024-R03,3,2024-03-24,Australia,Nico Hulkenberg,Haas Ferrari,9,9,Clasificado,16,58,+104.553,2.0,No,1:21.145
+2024-R03,3,2024-03-24,Australia,Kevin Magnussen,Haas Ferrari,10,10,Clasificado,14,57,+1 lap,1.0,No,1:21.082
+2024-R03,3,2024-03-24,Australia,Alexander Albon,Williams Mercedes,11,11,Clasificado,12,57,+1 lap,0.0,No,1:21.618
+2024-R03,3,2024-03-24,Australia,Daniel Ricciardo,RB Honda RBPT,12,12,Clasificado,18,57,+1 lap,0.0,No,1:21.239
+2024-R03,3,2024-03-24,Australia,Pierre Gasly,Alpine Renault,13,13,Clasificado,17,57,+1 lap,0.0,No,1:21.090
+2024-R03,3,2024-03-24,Australia,Valtteri Bottas,Kick Sauber Ferrari,14,14,Clasificado,13,57,+1 lap,0.0,No,1:21.422
+2024-R03,3,2024-03-24,Australia,Guanyu Zhou,Kick Sauber Ferrari,15,15,Clasificado,19,57,+1 lap,0.0,No,1:21.327
+2024-R03,3,2024-03-24,Australia,Esteban Ocon,Alpine Renault,16,16,Clasificado,15,57,+1 lap,0.0,No,1:21.354
+2024-R03,3,2024-03-24,Australia,George Russell,Mercedes,17,17,Clasificado,7,56,DNF,0.0,No,1:20.284
+2024-R03,3,2024-03-24,Australia,Lewis Hamilton,Mercedes,NC,,No clasificado,11,15,DNF,0.0,No,1:22.444
+2024-R03,3,2024-03-24,Australia,Max Verstappen,Red Bull Racing Honda RBPT,NC,,No clasificado,1,3,DNF,0.0,No,1:23.115
+2024-R04,4,2024-04-07,Japan,Max Verstappen,Red Bull Racing Honda RBPT,1,1,Clasificado,1,53,1:54:23.566,26.0,Yes,1:33.706
+2024-R04,4,2024-04-07,Japan,Sergio Perez,Red Bull Racing Honda RBPT,2,2,Clasificado,2,53,+12.535,18.0,No,1:33.945
+2024-R04,4,2024-04-07,Japan,Carlos Sainz,Ferrari,3,3,Clasificado,4,53,+20.866,15.0,No,1:33.841
+2024-R04,4,2024-04-07,Japan,Charles Leclerc,Ferrari,4,4,Clasificado,8,53,+26.522,12.0,No,1:35.044
+2024-R04,4,2024-04-07,Japan,Lando Norris,McLaren Mercedes,5,5,Clasificado,3,53,+29.700,10.0,No,1:35.186
+2024-R04,4,2024-04-07,Japan,Fernando Alonso,Aston Martin Aramco Mercedes,6,6,Clasificado,5,53,+44.272,8.0,No,1:34.726
+2024-R04,4,2024-04-07,Japan,George Russell,Mercedes,7,7,Clasificado,9,53,+45.951,6.0,No,1:34.404
+2024-R04,4,2024-04-07,Japan,Oscar Piastri,McLaren Mercedes,8,8,Clasificado,6,53,+47.525,4.0,No,1:34.802
+2024-R04,4,2024-04-07,Japan,Lewis Hamilton,Mercedes,9,9,Clasificado,7,53,+48.626,2.0,No,1:33.952
+2024-R04,4,2024-04-07,Japan,Yuki Tsunoda,RB Honda RBPT,10,10,Clasificado,10,52,+1 lap,1.0,No,1:36.342
+2024-R04,4,2024-04-07,Japan,Nico Hulkenberg,Haas Ferrari,11,11,Clasificado,12,52,+1 lap,0.0,No,1:35.325
+2024-R04,4,2024-04-07,Japan,Lance Stroll,Aston Martin Aramco Mercedes,12,12,Clasificado,16,52,+1 lap,0.0,No,1:35.798
+2024-R04,4,2024-04-07,Japan,Kevin Magnussen,Haas Ferrari,13,13,Clasificado,18,52,+1 lap,0.0,No,1:36.654
+2024-R04,4,2024-04-07,Japan,Valtteri Bottas,Kick Sauber Ferrari,14,14,Clasificado,13,52,+1 lap,0.0,No,1:36.608
+2024-R04,4,2024-04-07,Japan,Esteban Ocon,Alpine Renault,15,15,Clasificado,15,52,+1 lap,0.0,No,1:36.232
+2024-R04,4,2024-04-07,Japan,Pierre Gasly,Alpine Renault,16,16,Clasificado,17,52,+1 lap,0.0,No,1:36.642
+2024-R04,4,2024-04-07,Japan,Logan Sargeant,Williams Mercedes,17,17,Clasificado,19,52,+1 lap,0.0,No,1:34.900
+2024-R04,4,2024-04-07,Japan,Guanyu Zhou,Kick Sauber Ferrari,NC,,No clasificado,20,12,DNF,0.0,No,1:37.160
+2024-R04,4,2024-04-07,Japan,Daniel Ricciardo,RB Honda RBPT,NC,,No clasificado,11,0,DNF,0.0,No,
+2024-R04,4,2024-04-07,Japan,Alexander Albon,Williams Mercedes,NC,,No clasificado,14,0,DNF,0.0,No,
